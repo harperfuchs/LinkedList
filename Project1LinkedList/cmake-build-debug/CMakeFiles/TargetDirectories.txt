@@ -1,0 +1,3 @@
+C:/Users/fuchs/CLionProjects/Project1LinkedList/cmake-build-debug/CMakeFiles/Project1LinkedList.dir
+C:/Users/fuchs/CLionProjects/Project1LinkedList/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/fuchs/CLionProjects/Project1LinkedList/cmake-build-debug/CMakeFiles/rebuild_cache.dir
